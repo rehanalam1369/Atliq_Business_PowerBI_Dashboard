@@ -1,6 +1,6 @@
 📊 Atliq_Business_PowerBI_Dashboard – Business Performance Analysis
 
-https://youtu.be/VjJd6uF9wEs
+https://www.youtube.com/embed/VjJd6uF9wEs?autoplay=1&mute=1&rel=0
 
 📝 Project Overview
 
